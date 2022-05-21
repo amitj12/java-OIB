@@ -1,3 +1,5 @@
+//Amit Jadhav
+//oasis infobyte
 import java.util.Scanner;
 import java.util.Random;
 class numberGuess {
